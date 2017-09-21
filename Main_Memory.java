@@ -66,4 +66,13 @@ public class Main_Memory {
             return false;
         }
     }
+//public boolean check_input(int block_test,int off_set){
+        //if(block_test > 15 || off_set > 15){
+            //System.out.println("PLease Enter Correct values");
+          //  return true;
+        //}
+      //  else{
+    //        return false;
+  //      }
+//    }
 }
