@@ -1,0 +1,6 @@
+projectKey=Cache_Project:Logical
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/Cache_Project:Logical
+ceTaskId=AV6qtmXim6rsCf04jLRX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV6qtmXim6rsCf04jLRX
