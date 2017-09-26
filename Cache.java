@@ -102,4 +102,4 @@ public class Cache {
     public void get_CPU_action(int block, int offset){
         System.out.println("get_CPU_action() : Action = Read, Block = " + block + ", Off_Set = " + offset);
     }
-}
+}Now let us see ehat happens
